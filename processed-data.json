@@ -1,0 +1,343 @@
+{
+  "SÓLLER": {
+    "Alberg": 1,
+    "Agroturisme": 11,
+    "Apartaments turístics": 3,
+    "Hotel apartament": 1,
+    "Hotel rural": 1,
+    "Hostal": 3,
+    "Hotel": 17,
+    "Casa dhostes": 1,
+    "Turisme dinterior": 26
+  },
+  "MONTUÏRI": {
+    "Alberg": 1,
+    "Agroturisme": 3,
+    "Hotel rural": 2,
+    "Turisme dinterior": 1
+  },
+  "ESPORLES": {
+    "Agroturisme": 10,
+    "Hotel": 1,
+    "Hostal": 1,
+    "Turisme dinterior": 1
+  },
+  "ALCÚDIA": {
+    "Agroturisme": 4,
+    "Apartaments turístics": 26,
+    "Hotel apartament": 20,
+    "Hostatgeria": 1,
+    "Hostal": 2,
+    "Hotel": 27,
+    "Hostal residència": 2,
+    "Fonda": 1,
+    "Turisme dinterior": 10
+  },
+  "SENCELLES": {
+    "Agroturisme": 6,
+    "Hotel rural": 1,
+    "Turisme dinterior": 2
+  },
+  "BUNYOLA": {
+    "Agroturisme": 12,
+    "Hotel": 2,
+    "Turisme dinterior": 1
+  },
+  "SANT LLORENÇ DES CARDASSAR": {
+    "Agroturisme": 10,
+    "Apartaments turístics": 14,
+    "Hotel apartament": 24,
+    "Hotel rural": 1,
+    "Hotel": 42,
+    "Casa dhostes": 3,
+    "Hostal": 2,
+    "Turisme dinterior": 2
+  },
+  "CAMPOS": {
+    "Agroturisme": 30,
+    "Hotel rural": 3,
+    "Hostal residència": 1,
+    "Hotel": 1,
+    "Turisme dinterior": 2
+  },
+  "LLUCMAJOR": {
+    "Agroturisme": 25,
+    "Apartaments turístics": 2,
+    "Hotel apartament": 1,
+    "Hotel rural": 2,
+    "Hotel": 37,
+    "Hostal": 3,
+    "Fonda": 1,
+    "Hostal residència": 3,
+    "Turisme dinterior": 1
+  },
+  "LLORET DE VISTALEGRE": {
+    "Agroturisme": 3
+  },
+  "ALGAIDA": {
+    "Agroturisme": 2,
+    "Hostatgeria": 1,
+    "Hotel rural": 1,
+    "Hotel": 1,
+    "Turisme dinterior": 2
+  },
+  "CAMPANET": {
+    "Agroturisme": 4,
+    "Hotel rural": 1,
+    "Turisme dinterior": 2
+  },
+  "ARTÀ": {
+    "Agroturisme": 9,
+    "Apartaments turístics": 1,
+    "Hotel rural": 1,
+    "Hostal": 2,
+    "Hotel": 7,
+    "Turisme dinterior": 8
+  },
+  "VALLDEMOSSA": {
+    "Agroturisme": 5,
+    "Hotel rural": 1,
+    "Hotel": 2,
+    "Turisme dinterior": 7
+  },
+  "SINEU": {
+    "Agroturisme": 1,
+    "Hotel": 1,
+    "Turisme dinterior": 9
+  },
+  "SANTA MARGALIDA": {
+    "Agroturisme": 7,
+    "Apartaments turístics": 10,
+    "Hotel apartament": 16,
+    "Hotel rural": 1,
+    "Hotel": 26,
+    "Hostal residència": 1,
+    "Turisme dinterior": 2
+  },
+  "FORNALUTX": {
+    "Agroturisme": 2,
+    "Hotel apartament": 2,
+    "Turisme dinterior": 3
+  },
+  "FELANITX": {
+    "Agroturisme": 18,
+    "Apartaments turístics": 22,
+    "Hotel apartament": 4,
+    "Hostatgeria": 1,
+    "Hotel rural": 3,
+    "Hotel": 10,
+    "Hostal residència": 2,
+    "Hostal": 1,
+    "Turisme dinterior": 3
+  },
+  "SANTANYÍ": {
+    "Agroturisme": 6,
+    "Apartaments turístics": 27,
+    "Hotel apartament": 19,
+    "Casa dhostes": 2,
+    "Hotel": 29,
+    "Hostal residència": 10,
+    "Hostal": 10,
+    "Fonda": 2,
+    "Turisme dinterior": 3
+  },
+  "PUIGPUNYENT": {
+    "Agroturisme": 3,
+    "Apartaments turístics": 1,
+    "Hotel rural": 2
+  },
+  "VILAFRANCA DE BONANY": {
+    "Agroturisme": 1,
+    "Hotel rural": 1
+  },
+  "SELVA": {
+    "Agroturisme": 10,
+    "Hotel": 1,
+    "Turisme dinterior": 10
+  },
+  "SANTA MARIA DEL CAMÍ": {
+    "Agroturisme": 6,
+    "Hotel rural": 1
+  },
+  "BÚGER": {
+    "Agroturisme": 1
+  },
+  "CALVIÀ": {
+    "Agroturisme": 7,
+    "Apartaments turístics": 59,
+    "Hotel apartament": 31,
+    "Hotel rural": 1,
+    "Hostal residència": 13,
+    "Casa dhostes": 1,
+    "Hotel": 134,
+    "Hostal": 5,
+    "Turisme dinterior": 1
+  },
+  "MANACOR": {
+    "Agroturisme": 28,
+    "Apartaments turístics": 12,
+    "Hotel apartament": 10,
+    "Hotel rural": 3,
+    "Hotel": 20,
+    "Casa dhostes": 2,
+    "Hostal": 1
+  },
+  "POLLENÇA": {
+    "Agroturisme": 9,
+    "Apartaments turístics": 29,
+    "Hotel apartament": 7,
+    "Hotel": 31,
+    "Hostal residència": 1,
+    "Pensió": 1,
+    "Hostal": 1,
+    "Turisme dinterior": 4
+  },
+  "CAPDEPERA": {
+    "Agroturisme": 3,
+    "Apartaments turístics": 21,
+    "Hotel apartament": 22,
+    "Hotel rural": 2,
+    "Hotel": 52,
+    "Hostal residència": 6,
+    "Hostal": 9,
+    "Fonda": 1,
+    "Turisme dinterior": 1
+  },
+  "PORRERES": {
+    "Agroturisme": 9,
+    "Hotel rural": 2,
+    "Turisme dinterior": 1
+  },
+  "MARRATXÍ": {
+    "Agroturisme": 1,
+    "Turisme dinterior": 1
+  },
+  "ESTELLENCS": {
+    "Agroturisme": 1,
+    "Hotel": 1,
+    "Turisme dinterior": 3
+  },
+  "MARIA DE LA SALUT": {
+    "Agroturisme": 5,
+    "Hotel": 1,
+    "Turisme dinterior": 2
+  },
+  "PETRA": {
+    "Agroturisme": 5,
+    "Turisme dinterior": 2
+  },
+  "LLOSETA": {
+    "Agroturisme": 1,
+    "Turisme dinterior": 2
+  },
+  "SON SERVERA": {
+    "Agroturisme": 4,
+    "Apartaments turístics": 23,
+    "Hotel apartament": 14,
+    "Hotel rural": 1,
+    "Hotel": 23,
+    "Hostal residència": 4,
+    "Casa dhostes": 1,
+    "Hostal": 1,
+    "Turisme dinterior": 1
+  },
+  "ALARÓ": {
+    "Agroturisme": 3,
+    "Hotel rural": 1,
+    "Hostal residència": 1,
+    "Turisme dinterior": 8
+  },
+  "BINISSALEM": {
+    "Agroturisme": 2,
+    "Hotel rural": 1
+  },
+  "SES SALINES": {
+    "Agroturisme": 3,
+    "Apartaments turístics": 13,
+    "Hotel apartament": 1,
+    "Hotel rural": 1,
+    "Hotel": 15,
+    "Hostal": 2,
+    "Turisme dinterior": 1
+  },
+  "PALMA": {
+    "Agroturisme": 4,
+    "Apartaments turístics": 22,
+    "Hotel apartament": 17,
+    "Hotel rural": 1,
+    "Hotel": 191,
+    "Hostal": 6,
+    "Hostal residència": 18,
+    "Casa dhostes": 5,
+    "Fonda": 1,
+    "Turisme dinterior": 38
+  },
+  "INCA": {
+    "Agroturisme": 6,
+    "Hotel rural": 1,
+    "Turisme dinterior": 2
+  },
+  "COSTITX": {
+    "Agroturisme": 2,
+    "Turisme dinterior": 2
+  },
+  "ARIANY": {
+    "Agroturisme": 1,
+    "Hotel": 1,
+    "Turisme dinterior": 1
+  },
+  "ESCORCA": {
+    "Agroturisme": 2
+  },
+  "SANT JOAN": {
+    "Agroturisme": 3
+  },
+  "MURO": {
+    "Agroturisme": 1,
+    "Apartaments turístics": 7,
+    "Camping": 1,
+    "Hotel apartament": 15,
+    "Hotel rural": 1,
+    "Hotel": 15,
+    "Turisme dinterior": 1
+  },
+  "SA POBLA": {
+    "Agroturisme": 4,
+    "Fonda": 1,
+    "Turisme dinterior": 2
+  },
+  "DEIÀ": {
+    "Agroturisme": 1,
+    "Hotel apartament": 1,
+    "Hotel": 3,
+    "Fonda": 1,
+    "Hostal": 1
+  },
+  "SANTA EUGÈNIA": {
+    "Agroturisme": 1
+  },
+  "ANDRATX": {
+    "Agroturisme": 1,
+    "Apartaments turístics": 3,
+    "Hotel apartament": 3,
+    "Hotel": 9,
+    "Hostal": 1,
+    "Hostal residència": 1,
+    "Turisme dinterior": 2
+  },
+  "CONSELL": {
+    "Hotel rural": 1
+  },
+  "BANYALBUFAR": {
+    "Hotel rural": 1,
+    "Hotel": 2,
+    "Hostal": 1,
+    "Turisme dinterior": 4
+  },
+  "LLUBÍ": {
+    "Turisme dinterior": 5
+  },
+  "MANCOR DE LA VALL": {
+    "Turisme dinterior": 1
+  }
+}
